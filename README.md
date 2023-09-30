@@ -2,4 +2,4 @@
 
 Soluções da primeira lista de exercícios da disciplina de Programação Estruturada da UFRR
 
-![alt text](https://github.com/engjango/ufrr_lista_de_exercicios_1/blob/master/screenshot.png?raw=true)
+![alt text](https://github.com/engjango/ufrr_lista_de_exercicios_1/blob/main/screenshot.png?raw=true)
